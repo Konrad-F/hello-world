@@ -25,4 +25,6 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-To see an extra list item in the history I commit quickly one more time the readme
+To see an extra list item in the history I commit quickly one more time the readme.
+
+Ha ha, You won't believe but this will become my 3rd commit
