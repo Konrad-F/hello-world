@@ -24,3 +24,5 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
+To see an extra list item in the history I commit quickly one more time the readme
